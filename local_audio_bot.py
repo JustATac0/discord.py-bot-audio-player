@@ -78,6 +78,4 @@ async def command_name(ctx):
         # Play audio
         player = voice.play(source)
 
-
-
 client.run(TOKEN)
